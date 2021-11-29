@@ -1,5 +1,7 @@
 package main
 
-func main() {
+import "github.com/AdamKandias/go-store/app"
 
+func main() {
+	app.Run()
 }
